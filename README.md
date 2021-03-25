@@ -12,6 +12,7 @@ EcoMonitor server-side backend app, handles API requests and logs data to a MySQ
 
 + RESTful API.
 + Token based authorization.
-+ OAuth 2.0 compliant. Click _me_ for an interactive API demo.
++ OAuth 2.0 compliant. Click *me* for an interactive API demo.
++ *TODO...*
 
 *moar cool stuff... but not yet*
