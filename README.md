@@ -1,6 +1,13 @@
 # EcoMonitorServer
 
-TFG
+## What is this?
 
-Server-side from EcoMonitor app.
+EcoMonitor server-side backend app, handles API requests and logs data to a MySQL Server.
 
+## Structure
+
+*code structure*
+
+## Features
+
+*cool stuff... but not yet*
